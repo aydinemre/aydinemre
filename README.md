@@ -1,6 +1,6 @@
 # Emre Aydin
 
-**Machine Learning Engineer**
+**Data Science & AI Leader**
 
 I build projects across machine learning, data systems, and developer tooling. My public work includes pricing experiments, API documentation tools, and native macOS utilities.
 
